@@ -17,7 +17,7 @@ We are an open-source community dedicated to creating a **fully transparent, hig
 | Feature | Capabilities | Developer Benefits |
 |---------|--------------|---------------------|
 | **🧱 Autonomous Architecture** | 100% open-source from core logic to application layer | Full control with zero black-box components |
-| **🔄 Flexible Model Support** | Compatible with MiniLM2/ChatGPT/Claude models<br>Local & API deployment options | Freedom to choose optimal AI engine |
+| **🔄 Flexible Model Support** | Compatible with MiniLM2/Qwen/DeepSeek models<br>Local & API deployment options | Freedom to choose optimal AI engine |
 | **🎮 Comprehensive Streaming** | Danmu interaction/Gift responses/Viewer mentions<br>20+ native streaming scenarios | Production-ready core functionality |
 | **🧩 Modular Design** | Hot-swappable components<br>Standardized interfaces | Customize your ideal streaming system |
 
